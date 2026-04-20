@@ -5,16 +5,16 @@ At the end of this phase, the system should have a solid structural foundation. 
 
 ### Step 1 — Define the domain before coding
 - [ ] Review the project goal
-- [ ] Define the main modules of the system
-- [ ] Define the user roles
+- [x] Define the main modules of the system
+- [x] Define the user roles
 - [ ] Define the main operational workflows
 - [ ] Define the enum values for statuses, severities, priorities, origins, and event types
 - [ ] Define the naming conventions of the project
 
 ### Step 2 — Model the domain
-- [ ] Identify the core entities
-- [ ] Define the attributes of each entity
-- [ ] Define the relationships between entities
+- [x] Identify the core entities
+- [x] Define the attributes of each entity
+- [x] Define the relationships between entities
 - [ ] Define which entities have lifecycle states
 - [ ] Define which entities require historical records
 - [ ] Define which entities should never be physically deleted
@@ -28,7 +28,7 @@ At the end of this phase, the system should have a solid structural foundation. 
 - [ ] Define deactivation/soft-delete strategy where applicable
 
 ### Step 4 — Define the backend structure
-- [ ] Define the package/folder structure
+- [x] Define the package/folder structure
 - [ ] Define the responsibility of each layer
 - [ ] Define the API response pattern
 - [ ] Define the API error response pattern
